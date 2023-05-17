@@ -1,0 +1,38 @@
+_repo: WantedLeaders-b-A-study-of-Negro-development_70600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bratton, Theodore DeBose
+    alias: Bratton, T. D. (Theodore DuBose)
+    birthdate: 1862
+    deathdate: 1944
+    gutenberg_agent_id: '55818'
+    url: http://www.gutenberg.org/2009/agents/55818
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_DuBose_Bratton
+description: ''
+gutenberg_issued: '2023-04-19'
+identifiers:
+  gutenberg: '70600'
+language: en
+pgterms:marc904: https://archive.org/details/wantedleadersstu00bratrich/page/n3/mode/2up
+pgterms:marc905: 20220129212829brattondd
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bDepartment of Missions and Church Extensions,
+  $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- History'
+- !lcc 'E151'
+- GITenberg
+tableOfContents: The Negro in Africa -- The Negro in Liberia -- The Negro in Haiti
+  -- The slave and the freedman in America -- The period of war and reconstruction
+  -- The education of the Negro -- The Christian development of the Negro -- What
+  of the future?
+title: 'Wanted—Leaders! : $b A study of Negro development'
+url: http://www.gutenberg.org/ebooks/70600
